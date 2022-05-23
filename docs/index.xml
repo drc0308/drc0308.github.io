@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Dan Cuomo</title>
-        <link>https://drc56.github.io/</link>
+        <link>https://dancuomo.com/</link>
         <description>Come on in and say hi!</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dcuomo56@gmail.com (Daniel Cuomo)</managingEditor>
             <webMaster>dcuomo56@gmail.com (Daniel Cuomo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-            <atom:link href="https://drc56.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://dancuomo.com/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>

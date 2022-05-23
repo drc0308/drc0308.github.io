@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - Dan Cuomo</title>
-        <link>https://drc56.github.io/categories/</link>
+        <link>https://dancuomo.com/categories/</link>
         <description>Categories - Category - Dan Cuomo</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dcuomo56@gmail.com (Daniel Cuomo)</managingEditor>
-            <webMaster>dcuomo56@gmail.com (Daniel Cuomo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://drc56.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>dcuomo56@gmail.com (Daniel Cuomo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://dancuomo.com/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
