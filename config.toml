@@ -10,7 +10,11 @@ languageCode = "en"
 languageName = "English"
 
 [params]
-  defaultTheme = "light"
+  # site default theme ["auto", "light", "dark"]
+  defaultTheme = "auto"
+  dateFormat = "2006-01-02"
+  title = "Dan Cuomo"
+  description = "Come on in and say hi!"
 
 # Author config
 [author]
