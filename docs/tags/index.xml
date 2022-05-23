@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Dan Cuomo</title>
-        <link>https://dancuomo.com/tags/</link>
+        <link>https://drc56.github.io/tags/</link>
         <description>Tags - Tag - Dan Cuomo</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dcuomo56@gmail.com (Daniel Cuomo)</managingEditor>
-            <webMaster>dcuomo56@gmail.com (Daniel Cuomo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://dancuomo.com/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>dcuomo56@gmail.com (Daniel Cuomo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://drc56.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>

@@ -1,4 +1,4 @@
-baseURL = "https://dancuomo.com/"
+baseURL = "https://drc56.github.io/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
