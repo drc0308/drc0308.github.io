@@ -1,0 +1,101 @@
+baseURL = "http://example.org/"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "LoveIt"
+
+# website title
+title = "Dan Cuomo"
+languageCode = "en"
+languageName = "English"
+
+[params]
+  defaultTheme = "light"
+
+# Author config
+[author]
+  name = "Daniel Cuomo"
+  email = "dcuomo56@gmail.com"
+  link = ""
+
+# Header config
+[params.header]
+  # desktop header mode ["fixed", "normal", "auto"]
+  desktopMode = "fixed"
+  # mobile header mode ["fixed", "normal", "auto"]
+  mobileMode = "auto"
+  # Header title config
+  [params.header.title]
+    # URL of the LOGO
+    logo = ""
+    # title name
+    name = "Dan Cuomo"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    # whether to use typeit animation for title name
+    typeit = false
+
+
+# Home page config
+[params.home]
+  [params.home.posts]
+    enable = true
+    # special amount of posts in each home posts page
+    paginate = 6
+
+# Footer config
+[params.footer]
+  enable = true
+  # Custom content (HTML format is supported)
+  custom = ""
+  # whether to show Hugo and theme info
+  hugo = true
+  # whether to show copyright info
+  copyright = true
+  # whether to show the author
+  author = true
+  # site creation time
+  since = 2022
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+
+[languages]
+  [languages.en]
+    weight = 1
+    languageCode = "en"
+    languageName = "English"
+    hasCJKLanguage = false
+    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+    [languages.en.params]
+      [languages.en.params.home]
+        rss = 10
+        [languages.en.params.home.profile]
+          enable = true
+          gravatarEmail = ""
+          avatarURL = "/images/avatar.png"
+          title = "Hi my name is Dan!"
+          subtitle = "I'm a chess playing, beer drinking, software enthusiast!"
+          typeit = false
+          social = true
+          disclaimer = ""
+      [languages.en.params.social]
+        GitHub = "drc56"
+        Linkedin = "dan-cuomo"
+        Lichess = "dcuomo56"
+        Email = "dcuomo56@gmail.com"
+        RSS = true
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        weight = 1
+        identifier = "about"
+        pre = ""
+        post = ""
+        name = "About"
+        url = "/about/"
+        title = ""
