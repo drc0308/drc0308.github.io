@@ -94,9 +94,9 @@ languageName = "English"
         Linkedin = "dan-cuomo"
         Lichess = "dcuomo56"
         Email = "dcuomo56@gmail.com"
-        RSS = true
         Goodreads = "50744298-daniel-cuomo"
         Instagram = "dcuomo0308"
+        RSS = true
     [languages.en.menu]
         [[languages.en.menu.main]]
         weight = 1
