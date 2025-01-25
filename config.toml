@@ -1,4 +1,4 @@
-baseURL = "https://drc56.github.io/"
+baseURL = "https://drc0308.github.io/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -90,17 +90,27 @@ languageName = "English"
           social = true
           disclaimer = ""
       [languages.en.params.social]
-        GitHub = "drc56"
+        GitHub = "drc0308"
         Linkedin = "dan-cuomo"
         Lichess = "dcuomo56"
         Email = "dcuomo56@gmail.com"
         RSS = true
+        Goodreads = "50744298-daniel-cuomo"
+        Instagram = "dcuomo0308"
     [languages.en.menu]
-      [[languages.en.menu.main]]
+        [[languages.en.menu.main]]
         weight = 1
-        identifier = "about"
+        identifier = "blog"
         pre = ""
         post = ""
-        name = "About"
-        url = "/about/"
+        name = "Blog"
+        url = "/posts/"
+        title = ""
+      [[languages.en.menu.main]]
+        weight = 1
+        identifier = "resume"
+        pre = ""
+        post = ""
+        name = "Resume"
+        url = "/resume/"
         title = ""
