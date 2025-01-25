@@ -2,7 +2,7 @@ baseURL = "https://drc0308.github.io/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
-publishDir = "docs"
+publishDir = "public"
 
 # website title
 title = "Dan Cuomo"
